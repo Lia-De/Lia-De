@@ -1,5 +1,7 @@
 ## Hi I'm Jenny!
 
+I have a Bachelor's degree (2021) as a digital designer, focus on UX/Interaction design from Högskolan Kristianstad <br/>
+
 🔭 I’m currently working on: Lexicon .NET fullstack course (Växjö) <br/>
 😄 Pronouns: she/her <br/>
 ⚡ Fun fact: I am a weaver, OG programming language <br/>
