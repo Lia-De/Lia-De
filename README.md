@@ -7,7 +7,6 @@ I have a Bachelor's degree (2021) as a digital designer, focus on UX/Interaction
 😄 **Pronouns:** she/her <br/>
 
 <details>
-
 **<summary> Portfolio Project: Craft in Time </summary>**
 
 ### Portfolio Project: Craft in Time
@@ -24,6 +23,21 @@ Have a look at a demo version, without login, to see how it works. Add a new pro
   * SQL Server running on Azure
 </details>
 
+<details>
+**<summary> Portfolio Project: Jafry Parking </summary>**
+
+  ### Jafry Parking App
+  
+  Group project with Frexet. My backend API is available:
+  * https://github.com/Lia-De/ParkingApp
+    
+  The Frontend is coded in React, 80% of it done by me, is available:
+  * https://github.com/JafryParking/JennyFEReact
+
+Mobile-first design to add a user, add cars to the user, start and stop parking times and provide useable feedback to the user.
+React Icons throughout and a simple colour-scheme.
+  
+</details>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jennytapani) 
