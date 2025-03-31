@@ -19,6 +19,7 @@ Once your project is done you can look at the Timers, and get stats on how long 
 Have a look at a demo version, without login, to see how it works. Add a new project for yourself and start tracking! <br />
   [ --> Go to Live Demo](https://lia-de.github.io/craftintime-react/)
   * React app, HTML, CSS, coded in Visual Studio Code.
+  * Hosted on GitHub Pages - [craftintime - source code](https://github.com/Lia-De/craftintime-react)
   * API Server running on Azure
   * SQL Server running on Azure
 </details>
