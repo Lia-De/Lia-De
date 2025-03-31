@@ -6,6 +6,24 @@ I have a Bachelor's degree (2021) as a digital designer, focus on UX/Interaction
 ⚡ **Fun fact:** I am a weaver, OG programming language <br/>
 😄 **Pronouns:** she/her <br/>
 
+<details>
+
+**<summary> Portfolio Project: Craft in Time </summary>**
+
+### Portfolio Project: Craft in Time
+
+React app, with a C# backend, relying on an SQL database. <br />
+The app has been checked for accessibility and designed primarily for small screens, mobile phones. <br />
+It's a simple tracking app to time your projects. You can add tasks and when you stop a timer can decide to apply it to the project at large or a specific task.<br />
+Once your project is done you can look at the Timers, and get stats on how long you worked on a project broken down by day.<br />
+Have a look at a demo version, without login, to see how it works. Add a new project for yourself and start tracking! <br />
+  [ --> Go to Live Demo](https://lia-de.github.io/craftintime-react/)
+  * React app, HTML, CSS, coded in Visual Studio Code.
+  * API Server running on Azure
+  * SQL Server running on Azure
+</details>
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jennytapani) 
 
